@@ -66,7 +66,7 @@ Web development (frontend, backend, database — monolithic and monorepo), cross
 <a href="https://github.com/nplrahman922/ScanTrash.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/0D1117/22C55E?text=ERPS+System&font=raleway" width="100%" />
+<img src="https://github.com/nplrahman922/nplrahman922/blob/main/ScanTrash.png" width="100%" />
 <h3>ERPS System for L2SW</h3>
 <p><i>Project Lead · Fullstack</i></p>
 <p>Collaboration with Telkom Area 6.</p>
