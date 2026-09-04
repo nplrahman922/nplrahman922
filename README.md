@@ -58,7 +58,7 @@ Web development (frontend, backend, database — monolithic and monorepo), cross
 <a href="https://github.com/nplrahman922/Py.Edia.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/0D1117/22C55E?text=ScanTrash&font=raleway" width="100%" />
+<img src="https://github.com/nplrahman922/nplrahman922/blob/main/ScanTrash.png" width="100%" />
 <h3>ScanTrash</h3>
 <p><i>PM · Database Engineer</i></p>
 <p>Krenova Balikpapan 2026 Finalist — competition project.</p>
