@@ -50,7 +50,7 @@ Web development (frontend, backend, database — monolithic and monorepo), cross
 </tr>
 <tr>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/0D1117/22C55E?text=PyEdia&font=raleway" width="100%" />
+<img src="https://github.com/nplrahman922/nplrahman922/blob/main/PyEdia.png" width="100%" />
 <h3>PyEdia</h3>
 <p><i>Frontend Engineer</i></p>
 <p>Hackathon 2025 — competition project.</p>
