@@ -32,7 +32,7 @@ Web development (frontend, backend, database — monolithic and monorepo), cross
 <a href="https://github.com/ecocyclebastura-star/Bastura.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/0D1117/22C55E?text=Akademi+Arsitek&font=raleway" width="100%" />
+<img src="https://github.com/nplrahman922/nplrahman922/blob/main/Akademi-Arsitek.png" width="100%" />
 <h3>Akademi Arsitek</h3>
 <p><i>Fullstack</i></p>
 <p>Company profile website — paid project.</p>
