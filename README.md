@@ -24,7 +24,7 @@ Web development (frontend, backend, database — monolithic and monorepo), cross
 <table>
 <tr>
 <td width="33%" valign="top">
-<img src="[https://placehold.co/600x320/0D1117/22C55E?text=Bastura&font=raleway](https://github.com/ecocyclebastura-star/Bastura/blob/main/Bastura%20Banner.png)" width="100%" />
+<img src="https://github.com/ecocyclebastura-star/Bastura/blob/main/Bastura%20Banner.png" width="100%" />
 <h3>Bastura</h3>
 <p><i>PM · Server Engineer (Backend + Database) · System Analyst</i></p>
 <p>Mobile app — internal project.</p>
