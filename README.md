@@ -76,7 +76,7 @@ Web development (frontend, backend, database — monolithic and monorepo), cross
 </tr>
 <tr>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/0D1117/22C55E?text=MatkulRoad&font=raleway" width="100%" />
+<img src="https://github.com/nplrahman922/nplrahman922/blob/main/MatkulRoad.png" width="100%" />
 <h3>MatkulRoad</h3>
 <p><i>Project Lead · Fullstack</i></p>
 <p>Coursework project.</p>
