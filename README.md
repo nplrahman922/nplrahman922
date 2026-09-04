@@ -3,9 +3,9 @@
 
 Building software systems that are scalable, reusable, secure, and optimized for real-world production use.
 
-![Fullstack Developer](https://img.shields.io/badge/-FULLSTACK%20DEVELOPER-22C55E?style=for-the-badge&logoColor=white)
-![Balikpapan • Indonesia](https://img.shields.io/badge/-BALIKPAPAN%20%E2%80%A2%20INDONESIA-22C55E?style=for-the-badge)
-![ITK • Computer Science](https://img.shields.io/badge/-ITK%20%E2%80%A2%20COMPUTER%20SCIENCE-22C55E?style=for-the-badge)
+![Fullstack Developer](https://img.shields.io/badge/-⚙️_FULLSTACK_DEVELOPER-22C55E?style=for-the-badge&logoColor=white)
+![Balikpapan • Indonesia](https://img.shields.io/badge/-📍_BALIKPAPAN_•_INDONESIA-22C55E?style=for-the-badge)
+![ITK • Computer Science](https://img.shields.io/badge/-🎓_ITK_•_COMPUTER_SCIENCE-22C55E?style=for-the-badge)
 
 ![nplrahman922's GitHub Stats](https://readme-stats-github.pages.dev/api?username=nplrahman922&theme=dark)
 
@@ -17,85 +17,88 @@ Web development (frontend, backend, database — monolithic and monorepo), cross
 
 **Core focus:** efficient memory/CPU usage & system security · clean, reusable code · staying current with relevant frameworks and engines.
 
+> [!TIP]
+> **Favorite stack right now:** `Bun` · `Hono` · `Svelte / Vue 3` · `PostgreSQL` · `Docker`
+
 ---
 
-## Projects
+## 🧩 Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
-<img src="https://github.com/ecocyclebastura-star/Bastura/blob/main/Bastura%20Banner.png" width="100%" />
+<img src="https://github.com/ecocyclebastura-star/Bastura/blob/main/Bastura%20Banner.png" width="100%" height="200" />
 <h3>Bastura</h3>
-<p><i>PM · Server Engineer (Backend + Database) · System Analyst</i></p>
-<p>Mobile app — internal project.</p>
+<p><b>Role:</b> PM · Server Engineer (Backend + Database) · System Analyst</p>
+<p><b>Type:</b> Mobile app · Internal project</p>
 <p><code>Hono · Bun · PostgreSQL · Tauri v2 · Vue 3 · Tailwind CSS</code></p>
 <a href="https://github.com/ecocyclebastura-star/Bastura.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://github.com/nplrahman922/nplrahman922/blob/main/Akademi-Arsitek.png" width="100%" />
+<img src="https://github.com/nplrahman922/nplrahman922/blob/main/Akademi-Arsitek.png" width="100%" height="200" />
 <h3>Akademi Arsitek</h3>
-<p><i>Fullstack</i></p>
-<p>Company profile website — paid project.</p>
+<p><b>Role:</b> Fullstack</p>
+<p><b>Type:</b> Company profile website · Paid project</p>
 <p><code>Vue 3 · Tailwind CSS</code></p>
 <a href="https://github.com/akademiarsitek-id/Akademi-Arsitek.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://github.com/nplrahman922/nplrahman922/blob/main/PiostyIce.png" width="100%" />
+<img src="https://github.com/nplrahman922/nplrahman922/blob/main/PiostyIce.png" width="100%" height="200" />
 <h3>Piosty Ice</h3>
-<p><i>Fullstack</i></p>
-<p>Company profile website — paid project.</p>
+<p><b>Role:</b> Fullstack</p>
+<p><b>Type:</b> Company profile website · Paid project</p>
 <p><code>Vue 3 · Tailwind CSS</code></p>
 <a href="https://github.com/nplrahman922/Piostyice.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<img src="https://github.com/nplrahman922/nplrahman922/blob/main/PyEdia.png" width="100%" />
+<img src="https://github.com/nplrahman922/nplrahman922/blob/main/PyEdia.png" width="100%" height="200" />
 <h3>PyEdia</h3>
-<p><i>Frontend Engineer</i></p>
-<p>Hackathon 2025 — competition project.</p>
+<p><b>Role:</b> Frontend Engineer</p>
+<p><b>Type:</b> Web app · Hackathon 2025 competition</p>
 <p><code>JavaScript · Tailwind CSS</code></p>
 <a href="https://github.com/nplrahman922/Py.Edia.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://github.com/nplrahman922/nplrahman922/blob/main/ScanTrash.png" width="100%" />
+<img src="https://github.com/nplrahman922/nplrahman922/blob/main/ScanTrash.png" width="100%" height="200" />
 <h3>ScanTrash</h3>
-<p><i>PM · Database Engineer</i></p>
-<p>Krenova Balikpapan 2026 Finalist — competition project.</p>
+<p><b>Role:</b> PM · Database Engineer</p>
+<p><b>Type:</b> Mobile app · Krenova Balikpapan 2026 finalist</p>
 <p><code>Supabase · Tauri v2 Mobile · Vue 3 · Tailwind CSS</code></p>
 <a href="https://github.com/nplrahman922/ScanTrash.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://github.com/nplrahman922/nplrahman922/blob/main/ERPS.png" width="100%" />
+<img src="https://github.com/nplrahman922/nplrahman922/blob/main/ERPS.png" width="100%" height="200" />
 <h3>ERPS System for L2SW</h3>
-<p><i>Project Lead · Fullstack</i></p>
-<p>Collaboration with Telkom Area 6.</p>
+<p><b>Role:</b> Project Lead · Fullstack</p>
+<p><b>Type:</b> Network system · Collaboration with Telkom Area 6</p>
 <p><code>ContainerLab · Docker · Zabbix</code></p>
 <a href="https://github.com/nplrahman922/Implentation-ERPS-System-to-L2Switch-System.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<img src="https://github.com/nplrahman922/nplrahman922/blob/main/MatkulRoad.png" width="100%" />
+<img src="https://github.com/nplrahman922/nplrahman922/blob/main/MatkulRoad.png" width="100%" height="200" />
 <h3>MatkulRoad</h3>
-<p><i>Project Lead · Fullstack</i></p>
-<p>Coursework project.</p>
+<p><b>Role:</b> Project Lead · Fullstack</p>
+<p><b>Type:</b> Web app · Coursework project</p>
 <p><code>Vue 3 · Flask · Tailwind CSS</code></p>
 <a href="https://github.com/nplrahman922/matkulroad--PAA-.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/0D1117/22C55E?text=Qomus&font=raleway" width="100%" />
+<img src="https://placehold.co/600x320/0D1117/22C55E?text=Qomus&font=raleway" width="100%" height="200" />
 <h3>Qomus</h3>
-<p><i>Project Lead · Fullstack</i></p>
-<p>Coursework project.</p>
+<p><b>Role:</b> Project Lead · Fullstack</p>
+<p><b>Type:</b> Web app · Coursework project</p>
 <p><code>Vue 3 · Tailwind CSS · Spring Boot (Java)</code></p>
 <a href="https://github.com/nplrahman922/QomuS.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/0D1117/22C55E?text=Customer+Segmentation&font=raleway" width="100%" />
+<img src="https://placehold.co/600x320/0D1117/22C55E?text=Customer+Segmentation&font=raleway" width="100%" height="200" />
 <h3>Customer Segmentation</h3>
-<p><i>Unsupervised Learning</i></p>
-<p>Digital marketing — coursework final project.</p>
+<p><b>Role:</b> Unsupervised Learning</p>
+<p><b>Type:</b> ML notebook · Coursework final project (digital marketing)</p>
 <p><code>Jupyter · Streamlit</code></p>
 <a href="https://github.com/nplrahman922/Customer-segmentation-in-the-digital-marketing-ML-Final-Project-.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
@@ -104,7 +107,7 @@ Web development (frontend, backend, database — monolithic and monorepo), cross
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 **Language**
 
@@ -153,13 +156,9 @@ Web development (frontend, backend, database — monolithic and monorepo), cross
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-2E2E2E?style=for-the-badge)
 
-**Current Favorite Stack**
-
-`Bun` · `Hono` · `Svelte / Vue 3` · `PostgreSQL` · `Docker`
-
 ---
 
-## Currently Exploring
+## 🌱 Currently Exploring
 
 - MCP (Model Context Protocol) concepts
 - Using AI LLM/LMM to control object movement
