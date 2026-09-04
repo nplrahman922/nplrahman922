@@ -1,25 +1,21 @@
-<h1 align="center">Naufal Rifqi Rahman</h1>
-<h3 align="center">EnBee</h3>
+# Naufal Rifqi Rahman
+### EnBee
 
-<p align="center">Building software systems that are scalable, reusable, secure, and optimized for real-world production use.</p>
+Building software systems that are scalable, reusable, secure, and optimized for real-world production use.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-FULLSTACK%20DEVELOPER-FFD60A?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/-BALIKPAPAN%20%E2%80%A2%20INDONESIA-FFD60A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-ITK%20%E2%80%A2%20INFORMATIKA-FFD60A?style=for-the-badge" />
-</p>
+![Fullstack Developer](https://img.shields.io/badge/-FULLSTACK%20DEVELOPER-22C55E?style=for-the-badge&logoColor=white)
+![Balikpapan • Indonesia](https://img.shields.io/badge/-BALIKPAPAN%20%E2%80%A2%20INDONESIA-22C55E?style=for-the-badge)
+![ITK • Computer Science](https://img.shields.io/badge/-ITK%20%E2%80%A2%20COMPUTER%20SCIENCE-22C55E?style=for-the-badge)
 
-<p align="center">
-  <img src="https://readme-stats-github.pages.dev/api?username=nplrahman922&theme=dark" alt="nplrahman922's GitHub Stats" />
-</p>
+![nplrahman922's GitHub Stats](https://readme-stats-github.pages.dev/api?username=nplrahman922&theme=dark)
 
 ---
 
 ## About
 
-Web development (frontend, backend, database — monolitik maupun monorepo), software multiplatform (mobile & desktop), pemanfaatan AI/LLM untuk optimasi software engineering, dan animasi interaktif berbasis WebGL.
+Web development (frontend, backend, database — monolithic and monorepo), cross-platform software (mobile & desktop), AI/LLM-driven optimization for software engineering, and interactive WebGL animation.
 
-**Fokus utama:** efisiensi memory/CPU & keamanan sistem · kode clean & reusable · framework dan engine yang relevan dengan perkembangan zaman.
+**Core focus:** efficient memory/CPU usage & system security · clean, reusable code · staying current with relevant frameworks and engines.
 
 ---
 
@@ -28,49 +24,49 @@ Web development (frontend, backend, database — monolitik maupun monorepo), sof
 <table>
 <tr>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/141414/FFD60A?text=Bastura&font=raleway" width="100%" />
+<img src="https://placehold.co/600x320/0D1117/22C55E?text=Bastura&font=raleway" width="100%" />
 <h3>Bastura</h3>
 <p><i>PM · Server Engineer (Backend + Database) · System Analyst</i></p>
-<p>Mobile app — Insos Project.</p>
+<p>Mobile app — internal project.</p>
 <p><code>Hono · Bun · PostgreSQL · Tauri v2 · Vue 3 · Tailwind CSS</code></p>
 <a href="https://github.com/ecocyclebastura-star/Bastura.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/141414/FFD60A?text=Akademi+Arsitek&font=raleway" width="100%" />
+<img src="https://placehold.co/600x320/0D1117/22C55E?text=Akademi+Arsitek&font=raleway" width="100%" />
 <h3>Akademi Arsitek</h3>
 <p><i>Fullstack</i></p>
-<p>Company profile — Paid Project.</p>
+<p>Company profile website — paid project.</p>
 <p><code>Vue 3 · Tailwind CSS</code></p>
 <a href="https://github.com/akademiarsitek-id/Akademi-Arsitek.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/141414/FFD60A?text=Piosty+Ice&font=raleway" width="100%" />
+<img src="https://placehold.co/600x320/0D1117/22C55E?text=Piosty+Ice&font=raleway" width="100%" />
 <h3>Piosty Ice</h3>
 <p><i>Fullstack</i></p>
-<p>Company profile — Paid Project.</p>
+<p>Company profile website — paid project.</p>
 <p><code>Vue 3 · Tailwind CSS</code></p>
 <a href="https://github.com/nplrahman922/Piostyice.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/141414/FFD60A?text=PyEdia&font=raleway" width="100%" />
+<img src="https://placehold.co/600x320/0D1117/22C55E?text=PyEdia&font=raleway" width="100%" />
 <h3>PyEdia</h3>
 <p><i>Frontend Engineer</i></p>
-<p>Hackathon 2025 — Competition Project.</p>
+<p>Hackathon 2025 — competition project.</p>
 <p><code>JavaScript · Tailwind CSS</code></p>
 <a href="https://github.com/nplrahman922/Py.Edia.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/141414/FFD60A?text=ScanTrash&font=raleway" width="100%" />
+<img src="https://placehold.co/600x320/0D1117/22C55E?text=ScanTrash&font=raleway" width="100%" />
 <h3>ScanTrash</h3>
 <p><i>PM · Database Engineer</i></p>
-<p>Krenova Balikpapan 2026 Finalist — Competition Project.</p>
+<p>Krenova Balikpapan 2026 Finalist — competition project.</p>
 <p><code>Supabase · Tauri v2 Mobile · Vue 3 · Tailwind CSS</code></p>
 <a href="https://github.com/nplrahman922/ScanTrash.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/141414/FFD60A?text=ERPS+System&font=raleway" width="100%" />
+<img src="https://placehold.co/600x320/0D1117/22C55E?text=ERPS+System&font=raleway" width="100%" />
 <h3>ERPS System for L2SW</h3>
 <p><i>Project Lead · Fullstack</i></p>
 <p>Collaboration with Telkom Area 6.</p>
@@ -80,26 +76,26 @@ Web development (frontend, backend, database — monolitik maupun monorepo), sof
 </tr>
 <tr>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/141414/FFD60A?text=MatkulRoad&font=raleway" width="100%" />
+<img src="https://placehold.co/600x320/0D1117/22C55E?text=MatkulRoad&font=raleway" width="100%" />
 <h3>MatkulRoad</h3>
 <p><i>Project Lead · Fullstack</i></p>
-<p>Matkul Project.</p>
+<p>Coursework project.</p>
 <p><code>Vue 3 · Flask · Tailwind CSS</code></p>
 <a href="https://github.com/nplrahman922/matkulroad--PAA-.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/141414/FFD60A?text=Qomus&font=raleway" width="100%" />
+<img src="https://placehold.co/600x320/0D1117/22C55E?text=Qomus&font=raleway" width="100%" />
 <h3>Qomus</h3>
 <p><i>Project Lead · Fullstack</i></p>
-<p>Matkul Project.</p>
+<p>Coursework project.</p>
 <p><code>Vue 3 · Tailwind CSS · Spring Boot (Java)</code></p>
 <a href="https://github.com/nplrahman922/QomuS.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/141414/FFD60A?text=Customer+Segmentation&font=raleway" width="100%" />
+<img src="https://placehold.co/600x320/0D1117/22C55E?text=Customer+Segmentation&font=raleway" width="100%" />
 <h3>Customer Segmentation</h3>
 <p><i>Unsupervised Learning</i></p>
-<p>Digital marketing — Matkul Project.</p>
+<p>Digital marketing — coursework final project.</p>
 <p><code>Jupyter · Streamlit</code></p>
 <a href="https://github.com/nplrahman922/Customer-segmentation-in-the-digital-marketing-ML-Final-Project-.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
@@ -157,7 +153,7 @@ Web development (frontend, backend, database — monolitik maupun monorepo), sof
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-2E2E2E?style=for-the-badge)
 
-**Favorite Stack Sekarang**
+**Current Favorite Stack**
 
 `Bun` · `Hono` · `Svelte / Vue 3` · `PostgreSQL` · `Docker`
 
@@ -165,9 +161,9 @@ Web development (frontend, backend, database — monolitik maupun monorepo), sof
 
 ## Currently Exploring
 
-- Konsep MCP (Model Context Protocol)
-- Pemanfaatan AI LLM/LMM untuk mengatur pergerakan objek
-- Pemanfaatan AI LLM/LMM dalam penyelesaian task/tugas
-- Framework Svelte
-- Animasi WebGL dengan Pixi.js
-- Optimasi Rust (konsep garbage collector) untuk sistem yang optimal
+- MCP (Model Context Protocol) concepts
+- Using AI LLM/LMM to control object movement
+- Using AI LLM/LMM for task completion
+- Learning the Svelte framework
+- WebGL animation with the Pixi.js library
+- Rust optimization (garbage collector concepts) for efficient systems
