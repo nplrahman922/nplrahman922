@@ -87,7 +87,7 @@ Web development (frontend, backend, database — monolithic and monorepo), cross
 <a href="https://github.com/nplrahman922/matkulroad--PAA-.git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="33%" valign="top">
-<img src="https://placehold.co/600x320/0D1117/22C55E?text=Qomus&font=raleway" width="100%" height="200" />
+<img src="https://github.com/nplrahman922/QomuS/blob/master/Qomus.png" width="100%" height="200" />
 <h3>Qomus</h3>
 <p><b>Role:</b> Project Lead · Fullstack</p>
 <p><b>Type:</b> Web app · Coursework project</p>
